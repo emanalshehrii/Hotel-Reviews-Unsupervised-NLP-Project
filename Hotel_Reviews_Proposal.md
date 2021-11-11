@@ -1,4 +1,4 @@
-# Hotel reviews for sentiment analysis
+# Hotel Reviews for Sentiment Analysis
 ## Overview
 Having reviews is very valuable for both the guest and the hotel owner. For the potential guest, it’s a valuable resource during the search for a stay. For the hotelier, it’s a way to increase visibility and improve customer contact, which benefits the guests as well. Moreover, it can be useful in building recommendation systems.
 So, in this project we will use a **Hotel Reviews Data**. Our observation is a customer's review which is represented by a textual feedback of the customer's experience a hotel.
