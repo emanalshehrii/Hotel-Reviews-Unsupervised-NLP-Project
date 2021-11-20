@@ -10,7 +10,6 @@ This project is done during SDAIA Academy bootcamp of Data Science and AI, in co
 - [Slides Presentation]()
 ### Contact Me
 For any questions please contact me <br/>
-- :e-mail: **Email :** amjadalthinyyan@gmail.com <br/>
 - [LinkedIn](www.linkedin.com/in/eman-mohammed)
 <br/><br/>
 Thank you!
