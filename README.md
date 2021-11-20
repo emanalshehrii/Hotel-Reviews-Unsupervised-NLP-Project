@@ -7,7 +7,7 @@ This project is done during SDAIA Academy bootcamp of Data Science and AI, in co
 - [Jupyter Notebooks]()
 - [Images](https://github.com/emanalshehrii/Hotel-Reviews-Unsupervised-NLP-Project/tree/main/images)
 - [Final Report](https://github.com/emanalshehrii/Hotel-Reviews-Unsupervised-NLP-Project/blob/main/Hotel_Reviews_write_up.md)
-- [Slides Presentation]()
+- [Slides Presentation](https://github.com/emanalshehrii/Hotel-Reviews-Unsupervised-NLP-Project/blob/main/Hotel_reviews.pdf)
 ### Contact Me
 For any questions please contact me <br/>
 - [LinkedIn](https://www.linkedin.com/in/eman-mohammed/)
