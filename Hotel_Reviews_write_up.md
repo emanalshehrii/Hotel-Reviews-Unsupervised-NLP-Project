@@ -8,7 +8,7 @@ So, in this project we used the **Hotel Reviews Data**. Our observation is a cus
 ## Data Description 
 
 - In this project we choose the [Hotel Reviews Dataset](https://github.com/RaihanAk/Hotel-Review-Sentiment-Analysis_MachineLearning)
-- This dataset contains **38933** documents and **5** terms.<br/>
+- This dataset contains **38932** documents and **5** terms.<br/>
 
 
 ## Preprocessing 
