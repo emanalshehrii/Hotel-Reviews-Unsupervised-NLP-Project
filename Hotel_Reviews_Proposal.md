@@ -4,7 +4,7 @@ Having reviews is very valuable for both the guest and the hotel owner. For the 
 So, in this project we will use a **Hotel Reviews Data**. Our observation is a customer's review which is represented by a textual feedback of the customer's experience a hotel.
 ## Data Description
 - In this project we choose the [Hotel Reviews Dataset](https://github.com/RaihanAk/Hotel-Review-Sentiment-Analysis_MachineLearning)
-- This dataset contains **38933** documents and **5** terms.
+- This dataset contains **38932** documents and **5** terms.
 ## Tools
 **The tools we will use in our project:**
 - python, and Jupyter Notebook.
